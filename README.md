@@ -24,4 +24,4 @@
 <br>
 
 <h3>Link do projeto</h3>
-<a href="https://buguershop-kaiokaled.netlify.app/">ConvertyMoney.com</a>
+<a href="https://buguershop-kaiokaled.netlify.app/">buguershhop.com</a>
